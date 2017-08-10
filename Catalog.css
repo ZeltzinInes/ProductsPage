@@ -1,0 +1,15 @@
+﻿.Catalog
+{
+    background-color:#dae3f3;
+}
+
+.Catalog img
+{
+    width: 100px;
+    height: 100px;
+    border: 1px solid ridge;
+}
+
+body
+{
+}
